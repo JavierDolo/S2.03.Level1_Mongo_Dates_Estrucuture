@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6842bf0c0708be992afb4f7d"
+  },
+  "brand": "Rayban",
+  "graduation": {
+    "left_eye": 1.5,
+    "right_eye": 2
+  },
+  "frame_type": "metallic",
+  "frame_color": "black",
+  "lens_color": {
+    "left_eye": "clear",
+    "right_eye": "clear"
+  },
+  "price": 149.99,
+  "supplier_id": {
+    "$oid": "684180710708be992afb4f6f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842bf740708be992afb4f83"
+  },
+  "brand": "Armani",
+  "graduation": {
+    "left_eye": 2.25,
+    "right_eye": 1.75
+  },
+  "frame_type": "plastic",
+  "frame_color": "blue",
+  "lens_color": {
+    "left_eye": "gray",
+    "right_eye": "gray"
+  },
+  "price": 129.99,
+  "supplier_id": {
+    "$oid": "6842bb100708be992afb4f72"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842bfe70708be992afb4f87"
+  },
+  "brand": "Carrera",
+  "graduation": {
+    "left_eye": 1,
+    "right_eye": 1.25
+  },
+  "frame_type": "metallic",
+  "frame_color": "gold",
+  "lens_color": {
+    "left_eye": "clear",
+    "right_eye": "clear"
+  },
+  "price": 219,
+  "supplier_id": {
+    "$oid": "6842bb4b0708be992afb4f76"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842c0400708be992afb4f8b"
+  },
+  "brand": "Oakley",
+  "graduation": {
+    "left_eye": 0.75,
+    "right_eye": 1
+  },
+  "frame_type": "floating",
+  "frame_color": "green",
+  "lens_color": {
+    "left_eye": "green",
+    "right_eye": "green"
+  },
+  "price": 189.5,
+  "supplier_id": {
+    "$oid": "684180710708be992afb4f6f"
+  }
+}]

@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "6842c3d70708be992afb4f93"
+  },
+  "name": "Alice Johnson",
+  "address": {
+    "street": "Maple Street",
+    "number": 15,
+    "floor": "1st",
+    "door": "A",
+    "city": "Valencia",
+    "postal_code": "46001",
+    "country": "Spain"
+  },
+  "phone": "600123456",
+  "email": "alice.johnson@example.com",
+  "registration_date": {
+    "$date": "2024-04-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842c54a0708be992afb4f97"
+  },
+  "name": "Bob Smith",
+  "address": {
+    "street": "Elm Avenue",
+    "number": 45,
+    "floor": "3rd",
+    "door": "C",
+    "city": "Seville",
+    "postal_code": "41003",
+    "country": "Spain"
+  },
+  "phone": "600654321",
+  "email": "bob.smith@example.com",
+  "registration_date": {
+    "$date": "2024-05-12T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842c9490708be992afb4fa4"
+  },
+  "name": "John Doe",
+  "address": {
+    "street": "Elm Avenue",
+    "number": 45,
+    "floor": "3rd",
+    "door": "C",
+    "city": "Seville",
+    "postal_code": "41003",
+    "country": "Spain"
+  },
+  "phone": "699887766",
+  "email": "john.doe@email.com",
+  "register_date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "referred_by": {
+    "$oid": "6842c3d70708be992afb4f93"
+  }
+},
+{
+  "_id": {
+    "$oid": "6842cc220708be992afb4fa6"
+  },
+  "name": "Carla Rivera",
+  "address": {
+    "street": "Pine Road",
+    "number": 101,
+    "floor": "2nd",
+    "door": "B",
+    "city": "Madrid",
+    "postal_code": "28010",
+    "country": "Spain"
+  },
+  "phone": "600987654",
+  "email": "carla.rivera@example.com",
+  "registration_date": {
+    "$date": "2024-06-06T09:00:00.000Z"
+  },
+  "referred_by": {
+    "$oid": "6842c9490708be992afb4fa4"
+  }
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6843f5fd0708be992afb4fae"
+  },
+  "name": "India Martínez"
+},
+{
+  "_id": {
+    "$oid": "6843f6390708be992afb4fb0"
+  },
+  "name": "Gonzalo Rojan"
+},
+{
+  "_id": {
+    "$oid": "6843f6530708be992afb4fb2"
+  },
+  "name": "Laura Pausini"
+}]

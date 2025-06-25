@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6846bb990708be992afb4fc3"
+  },
+  "date_time": {
+    "$date": "2024-06-06T11:30:00.000Z"
+  },
+  "customer_id": {
+    "$oid": "6842c3d70708be992afb4f93"
+  },
+  "employee_id": {
+    "$oid": "6843f5fd0708be992afb4fae"
+  },
+  "glasses_id": {
+    "$oid": "6842bf0c0708be992afb4f7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846bbbc0708be992afb4fc5"
+  },
+  "date_time": {
+    "$date": "2024-06-06T12:15:00.000Z"
+  },
+  "customer_id": {
+    "$oid": "6842c54a0708be992afb4f97"
+  },
+  "employee_id": {
+    "$oid": "6843f6390708be992afb4fb0"
+  },
+  "glasses_id": {
+    "$oid": "6842bf740708be992afb4f83"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846bbe10708be992afb4fc7"
+  },
+  "date_time": {
+    "$date": "2024-06-06T13:00:00.000Z"
+  },
+  "customer_id": {
+    "$oid": "6842c9490708be992afb4fa4"
+  },
+  "employee_id": {
+    "$oid": "6843f6530708be992afb4fb2"
+  },
+  "glasses_id": {
+    "$oid": "6842bfe70708be992afb4f87"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846bc050708be992afb4fc9"
+  },
+  "date_time": {
+    "$date": "2024-06-06T14:00:00.000Z"
+  },
+  "customer_id": {
+    "$oid": "6842cc220708be992afb4fa6"
+  },
+  "employee_id": {
+    "$oid": "6843f6390708be992afb4fb0"
+  },
+  "glasses_id": {
+    "$oid": "6842c0400708be992afb4f8b"
+  }
+}]

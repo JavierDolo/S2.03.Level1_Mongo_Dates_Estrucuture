@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "684a8f910708be992afb4fef"
+  },
+  "glasses": {
+    "brand": "Brand",
+    "frame_type": "typeframe",
+    "provider": {
+      "name": "Googles Associated SL",
+      "details_popup": {
+        "address": {
+          "street": "Provider Street",
+          "number": 12,
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        "phone": "911223344",
+        "fax": "911223344",
+        "nif": "B99887766"
+      }
+    },
+    "price": 124.99,
+    "bought_by": [
+      {
+        "client_name": "Client 1",
+        "client_details": {
+          "address": "Client Street 1",
+          "phone": "600000001",
+          "email": "client1@email.com"
+        }
+      },
+      {
+        "client_name": "Client 2",
+        "client_details": {
+          "address": "Client Street 2",
+          "phone": "600000002",
+          "email": "client2@email.com"
+        }
+      },
+      {
+        "client_name": "Client 3",
+        "client_details": {
+          "address": "Client Street 3",
+          "phone": "600000003",
+          "email": "client3@email.com"
+        }
+      }
+    ]
+  }
+}]
